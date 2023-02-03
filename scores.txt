@@ -1,0 +1,4 @@
+name   department
+foday    MIS
+Abu      BIT
+Momoh    com/sci
